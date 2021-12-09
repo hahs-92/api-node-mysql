@@ -1,0 +1,24 @@
+{
+  "name": "api-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "API",
+    "mysql"
+  ],
+  "author": "Hugo Alexander Hernandez Serrano <Alexandre_2420@outlook.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
