@@ -16,7 +16,8 @@
   "author": "Hugo Alexander Hernandez Serrano <Alexandre_2420@outlook.com>",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
